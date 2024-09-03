@@ -1,2 +1,2 @@
 # Digital-Clock
-I have created this Digital-Clock for practice my Html, Css and JavaScript.
+I have created this Digital-Clock for practicing my skills in Html, Css and JavaScript.
